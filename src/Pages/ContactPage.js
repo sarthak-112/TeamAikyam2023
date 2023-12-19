@@ -4,7 +4,7 @@ import '../components/Contact/ContactPage.css'
 const data = [
   {
     id: 1,
-    image: "https://dwdja6ta65an1.cloudfront.net/the_live_love_laugh/uploads/media/source/aEMKpV-Mitram.png",
+    image: "https://www.mitramfoundation.org/wp-content/themes/mf/images/mitramfoundation-logo.png",
     title: "Mitram Foundation",
     content: "Mitram Foundation is a suicide prevention helpline that aims to offer emotional support to those going through a crisis in their lives, especially the distressed, depressed and suicidal.",
     helpline: "080 2572 2573, +91 901 9708133",
@@ -12,7 +12,7 @@ const data = [
   },
   {
     id: 2,
-    image: "https://dwdja6ta65an1.cloudfront.net/the_live_love_laugh/uploads/media/source/POLYle-Mann-talks.png",
+    image: "https://www.manntalks.org/wp-content/themes/manntalk/assets/images/logo.svg",
     title: "Mann Talks",
     content: "A Shantital Shanghvi Foundation initiative, Mann Talks focuses on empowering individuals to take charge of their mental health.",
     helpline: "+91-8686139139",
@@ -20,15 +20,15 @@ const data = [
   },
   {
     id: 3,
-    image: "https://dwdja6ta65an1.cloudfront.net/the_live_love_laugh/uploads/media/source/vArkjN-logo_vandrevala_foundation.png",
+    image: "https://uploads-ssl.webflow.com/62ab7d5ccc9f587bce83c183/62ab7d7075cb31c2890fa6a6_Logo.png",
     title: "Vandrevala Foundation",
     content: "Cyrus & Priya Vandrevala Foundation is a non-profit organisation that aims to provide significant funding and aid contributions for those suffering from mental health problems and illnesses in India.",
     helpline: "9999 666 555 | WhatsApp: +1(256)6662142",
-    web: "https://www.vandrevalafoundation.com/",
+    web: "https://www.vandrevalafoundation.com",
   },
   {
     id: 4,
-    image: "https://dwdja6ta65an1.cloudfront.net/the_live_love_laugh/uploads/media/source/htneGp-Parivarthan.png",
+    image: "https://parivarthan.org/wp-content/uploads/2020/03/parivarthan-gray-logo.png",
     title: "Parivarthan",
     content: "Parivarthan Counselling, Training and Research Centre is a registered, non-profit society that provides multimodal services in the field of mental health(www.parivarthan.org).",
     helpline: "+91-7676602602",
@@ -36,15 +36,15 @@ const data = [
   },
   {
     id: 5,
-    image: "https://dwdja6ta65an1.cloudfront.net/the_live_love_laugh/uploads/media/source/zaOoyJ-Connection-NGO.png",
-    title: "Connecting Trust",
-    content: "Connecting NGO is a non-judgemental, non-advisory, confidential and anonymous space for those feeling low, distressed and/or suicidal.",
+    image: "https://www.healthymind.org/images/logo.png",
+    title: "Institute for Psychological Health",
+    content: "IPH IS A SOCIAL ENTERPRISE WITH A STRONG COMMUNITY MENTAL HEALTH FOCUS",
     helpline: "+91-9922001122, +91-9922004305",
-    web: "https://connectingngo.org",
+    web: "https://www.healthymind.org/",
   },
   {
     id: 6,
-    image: "https://dwdja6ta65an1.cloudfront.net/the_live_love_laugh/uploads/media/source/IbBcgo-voice-that-cares.jpg",
+    image: "https://www.rocf.org/wp-content/uploads/2019/06/ROC_Logo_final-190.png",
     title: "Voice That Cares (ROCF)",
     content: "Voice That Cares is a free public helpline that provides psychosocial counselling support on a wide range of mental health matters including anxiety, fear, panic attacks, guilt, grief, loneliness etc.",
     helpline: "8448-8448-45",

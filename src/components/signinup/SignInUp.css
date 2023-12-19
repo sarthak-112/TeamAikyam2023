@@ -20,7 +20,7 @@
     border-radius: 1rem;
 }
 .form-toggle button {
-    background-color: var(--bluish-green);
+    background-color: var(--black);
     outline: none;
     border: none;
     border-radius: 0.5rem;
@@ -40,7 +40,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: var(--light-blue);
+    background-color: var(--black);
     padding: 1.5rem;
     border-radius: 1rem;
 }
@@ -52,7 +52,7 @@
     padding: 0.7rem 1rem;
     margin: 0.4rem;
     border: none;
-    border-bottom: 2px solid var(--bluish-green);
+    border-bottom: 2px solid var(--black);
     outline: none;
 
 
@@ -67,7 +67,7 @@
     width: 9rem;
     margin-top: 1.3rem;
 
-    color: var(--white);
+    color: var(--black);
     font-family: var(--noto);
     font-weight: 500;
     font-size: 1.1rem;

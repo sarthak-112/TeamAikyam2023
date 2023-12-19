@@ -18,7 +18,7 @@ function App() {
           <Route path='sign-in-up' element={<SignINUPPage />} />
           <Route path='join-us' element={<JoinUsPage />} />
           </Routes>
-          <Footer />
+         
     </div>
   );
 }

@@ -1,3 +1,13 @@
+.get-started-btn{
+  background-color:  #18c2fa;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: var(--montserrat);
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
 body, html {
   margin: 0;
   height: 100%;
@@ -138,6 +148,7 @@ body, html {
   color: var(--orange);
 }
 .phone{
+  cursor: pointer;
   padding: 1rem 1.6rem;
   background-color: var(--orange);
   font-family: var(--montserrat);

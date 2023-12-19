@@ -13,7 +13,7 @@ const JoinUs = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    if (!name || !email || !phone  || !proof) {
+    if (!name || !email || !phone || !proof) {
       setError('Please fill out all fields.');
       return;
     }
@@ -31,7 +31,7 @@ const JoinUs = () => {
 
   return (
     <form className="join-us-form" onSubmit={handleSubmit}>
-      <h2>Join Us</h2>
+      <h2 style={{ color: 'white' }}>Join Us</h2>
       {error && <p className="error-message">{error}</p>}
       <div className="form-group">
         <input type="text" id="name" placeholder='Name**' value={name} onChange={(e) => setName(e.target.value)} />
@@ -56,4 +56,4 @@ const JoinUs = () => {
   );
 };
 
-export default JoinUs
+export default JoinUs;
